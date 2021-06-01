@@ -4,7 +4,14 @@
 
 ### Разработка
 Приложение уже развернуто по адресу
-https://salty-castle-55953.herokuapp.com/admin/
+https://salty-castle-55953.herokuapp.com/
+
+Админка
+https://salty-castle-55953.herokuapp.com/admin
+
+Клиентское приложение
+https://github.com/savva-shishak/my-skies-client
+
 
 логин: admin
 
